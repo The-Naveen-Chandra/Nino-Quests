@@ -1,3 +1,3 @@
 Micro Project by me.
 
-https://the-naveen-chandra.github.io/Nino-Quests/Spiral%20Text%20Animation
+Project 1 link => https://the-naveen-chandra.github.io/Nino-Quests/Spiral-Text-Animation 
